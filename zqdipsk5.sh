@@ -61,7 +61,7 @@ systemctl stop xray
 systemctl start xray
     echo "###############################################################"
     echo "#        支持系统:  CentOS 6+ / Debian 7+ / Ubuntu 12+        #"
-    echo "#        详细说明: L2TP VPN 自动安装程序 有问题添加下方       #"
+    echo "#        详细说明: SK5多IP搭建 自动安装程序 有问题添加下方       #"
     echo "#                  野猫乐游微信：yemaoleyou                   #"
-    echo "#                  Teddysun电报:@yemaoleyou                   #"
+    echo "#                  Teddysun电报:@yemaoleyoushi                   #"
     echo "###############################################################"
